@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyaiitbhilai&label=Profile%20views&color=0e75b6&style=flat" alt="ananyaiitbhilai" /> </p>
 
-- 🙃 **LOL**
 
 
-<h3 align="left">what I am upto ?</h3>
-<h1>S    L    E    E    P    I     N     G     😪</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyaiitbhilai&show_icons=true&locale=en&layout=compact" alt="ananyaiitbhilai" /></p>
 
